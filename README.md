@@ -15,11 +15,11 @@
 
 
 
-               - 🔭 I’m currently working on **You Tube Clone**
+  - 🔭 I’m currently working on **You Tube Clone**
 
-               - 🌱 I’m currently learning **HTML | CSS | Javascript**
+  - 🌱 I’m currently learning **HTML | CSS | Javascript**
 
-              - 📫 reach me  @ **vishnu.cp.13@gmail.com**
+  - 📫 reach me  @ **vishnu.cp.13@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
