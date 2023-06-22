@@ -1,12 +1,15 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 <img align="center" alt="Coding" width="1000" src="https://media.tenor.com/f4eKzaPOZUYAAAAM/rz-ds-project.gif">
 
-
+<br>
+<br>
 <h1 align="center"> I'm Vishnu C P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br>
+<br>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-13-97&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-13-97" /> </p>
