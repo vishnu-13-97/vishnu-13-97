@@ -5,7 +5,7 @@
 <br>
 <br>
 <h1 align="center"> I'm Vishnu C P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <br>
 <br>
 
