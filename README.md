@@ -18,9 +18,9 @@
 
 
 
-  - 🔭 I’m currently working on **You Tube Clone**
+  - 🔭 I’m currently working on **Scope India Project**
 
-  - 🌱 I’m currently learning **HTML | CSS | Javascript**
+  - 🌱 I’m currently learning ** HTML | CSS | Javascript |React|Node JS | Express JS|MongoDB **
 
   - 📫 reach me  @ **vishnu.cp.13@gmail.com**
 
