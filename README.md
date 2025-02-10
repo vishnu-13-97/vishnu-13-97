@@ -71,7 +71,7 @@
 ## 🏆 Featured Projects  
 ### 1️⃣ Scope India - Course Enrollment System  
 🛠 **Tech Stack**: EJS, Express.js, MongoDB  
-🔗 **Live Demo**: [https://scope-project-frontend.onrender.com](#)  
+🔗 **Live Demo**: [Click Here](https://scope-project-frontend.onrender.com)  
 📌 **Description**: Built a dynamic website for Scope India, allowing users to enroll in courses, manage registrations, and explore course listings.
 
 ### 2️⃣ Portfolio Website  
